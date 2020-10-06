@@ -1,0 +1,13 @@
+C:\Users\ДИМКИН КОМП\source\repos\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\netcoreapp3.1\ISMSecondConsoleProject.exe
+C:\Users\ДИМКИН КОМП\source\repos\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\netcoreapp3.1\ISMSecondConsoleProject.deps.json
+C:\Users\ДИМКИН КОМП\source\repos\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\netcoreapp3.1\ISMSecondConsoleProject.runtimeconfig.json
+C:\Users\ДИМКИН КОМП\source\repos\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\netcoreapp3.1\ISMSecondConsoleProject.runtimeconfig.dev.json
+C:\Users\ДИМКИН КОМП\source\repos\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\netcoreapp3.1\ISMSecondConsoleProject.dll
+C:\Users\ДИМКИН КОМП\source\repos\ISMFirstSolution\ISMSecondConsoleProject\bin\Debug\netcoreapp3.1\ISMSecondConsoleProject.pdb
+C:\Users\ДИМКИН КОМП\source\repos\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\netcoreapp3.1\ISMSecondConsoleProject.csprojAssemblyReference.cache
+C:\Users\ДИМКИН КОМП\source\repos\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\netcoreapp3.1\ISMSecondConsoleProject.AssemblyInfoInputs.cache
+C:\Users\ДИМКИН КОМП\source\repos\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\netcoreapp3.1\ISMSecondConsoleProject.AssemblyInfo.cs
+C:\Users\ДИМКИН КОМП\source\repos\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\netcoreapp3.1\ISMSecondConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\ДИМКИН КОМП\source\repos\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\netcoreapp3.1\ISMSecondConsoleProject.dll
+C:\Users\ДИМКИН КОМП\source\repos\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\netcoreapp3.1\ISMSecondConsoleProject.pdb
+C:\Users\ДИМКИН КОМП\source\repos\ISMFirstSolution\ISMSecondConsoleProject\obj\Debug\netcoreapp3.1\ISMSecondConsoleProject.genruntimeconfig.cache
